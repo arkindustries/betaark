@@ -1,7 +1,7 @@
 {
   "name": "arkindustries",
   "version": "0.1.0",
-  "homepage": "arkindustries.github.io",
+  "homepage": "https://arkindustries.github.io/betaark",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -31,7 +31,7 @@
       "not dead",
       "not op_mini all"
     ],
-    "development": [
+    "development": [ 
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
