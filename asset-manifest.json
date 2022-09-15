@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/betaark/static/css/main.d0fd9320.css",
+    "main.js": "/betaark/static/js/main.30e8e329.js",
+    "static/js/787.42ad82a4.chunk.js": "/betaark/static/js/787.42ad82a4.chunk.js",
+    "static/media/bigark.svg": "/betaark/static/media/bigark.0bd963ab66a9d1786daa8f0d8c3774cb.svg",
+    "index.html": "/betaark/index.html",
+    "main.d0fd9320.css.map": "/betaark/static/css/main.d0fd9320.css.map",
+    "main.30e8e329.js.map": "/betaark/static/js/main.30e8e329.js.map",
+    "787.42ad82a4.chunk.js.map": "/betaark/static/js/787.42ad82a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0fd9320.css",
+    "static/js/main.30e8e329.js"
+  ]
+}
